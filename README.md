@@ -41,6 +41,6 @@ make
   - *malloc, free*
   - *perror, strerror*
   - *exit*
-  #### Bonus Part
+#### Bonus Part
   - Management of views in colors (Similar to option `-G`).
   - Management of options `-1`, `f`.
